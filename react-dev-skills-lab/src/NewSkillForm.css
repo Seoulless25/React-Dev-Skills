@@ -25,11 +25,11 @@
   
 .NewSkillForm > button {
     grid-column: span 2;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: bold;
     color: white;
     padding: 0.2rem;
-    background-color: white;
+    background-color: black;
     border: 0.2rem solid black;
-    border-radius: 0.5rem;
+    border-radius: 0.3rem;
 }
